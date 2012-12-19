@@ -4,13 +4,19 @@
 
 #menu{
     position: absolute;
-    left: 20px;
-    top: 50%;
+    left: 0;
+    top: 0;
+    width:100%;
     background-color: rgba(0,0,0, 0.7);
     text-shadow:1px 1px #000;
     padding:20px;
     font:15px/25px 'Futura Light';
     text-transform: uppercase;
+}
+
+#menu li{
+    display:inline-block;
+    margin-right:20px
 }
 
 #menu a{
