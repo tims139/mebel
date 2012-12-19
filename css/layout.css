@@ -4,7 +4,7 @@
 
 #menu{
     position: absolute;
-    left: 0;
+    left: 20px;
     top: 50%;
     background-color: rgba(0,0,0, 0.7);
     text-shadow:1px 1px #000;
